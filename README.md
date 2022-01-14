@@ -1,7 +1,7 @@
 # Deep-Learning-3D
 This repository  is used to centralize the papers in the 3D area.
 
-## Visual-Transformer-3D
+## Visual-Transformer-3D-Self-Attention
 
 [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
