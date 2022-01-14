@@ -8,6 +8,7 @@
 [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
 [Visual-Transformer-Paper-Summary](https://github.com/AIprogrammer/Visual-Transformer-Paper-Summary)
+[Transformers in computational visual media: A survey](https://link.springer.com/content/pdf/10.1007/s41095-021-0247-3.pdf)
 
 [Awesome-Visual-Representation-Learning-With-Transformers](https://github.com/alohays/awesome-visual-representation-learning-with-transformers)
 
