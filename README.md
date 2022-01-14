@@ -1,5 +1,5 @@
-# Deep-Learning-3D
-This repository  is used to centralize the papers in the 3D area.
+# This repository  is used to centralize the papers in the 3D area.
+## Deep-Learning-3D
 
 [Deep-Learning-On-Point-Clouds](https://github.com/PointCloudYC/Deep-Learning-On-Point-Clouds)
 
