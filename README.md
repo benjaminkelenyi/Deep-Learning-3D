@@ -8,9 +8,13 @@
 
 [Visual-Transformer-Paper-Summary](https://github.com/AIprogrammer/Visual-Transformer-Paper-Summary)
 
+[Awesome-Visual-Representation-Learning-With-Transformers](https://github.com/alohays/awesome-visual-representation-learning-with-transformers)
+
+### Survey
+
 [Transformers in computational visual media: A survey](https://link.springer.com/content/pdf/10.1007/s41095-021-0247-3.pdf)
 
-[Awesome-Visual-Representation-Learning-With-Transformers](https://github.com/alohays/awesome-visual-representation-learning-with-transformers)
+[Transformers in Vision: A Survey](https://dl.acm.org/doi/pdf/10.1145/3505244)
 
 ## Spatial-Transformer
 ### 2D
